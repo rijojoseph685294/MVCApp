@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone", "FSD Assignments\TwitterClone.csproj", "{2866D256-BFA4-4FBE-A027-E34AB54B9451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwitterClone.Tests", "FSD Assignments.Tests\TwitterClone.Tests.csproj", "{2E5D702D-1421-48C5-9CF4-A6BB9A3E02C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2866D256-BFA4-4FBE-A027-E34AB54B9451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2866D256-BFA4-4FBE-A027-E34AB54B9451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2866D256-BFA4-4FBE-A027-E34AB54B9451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2866D256-BFA4-4FBE-A027-E34AB54B9451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E5D702D-1421-48C5-9CF4-A6BB9A3E02C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E5D702D-1421-48C5-9CF4-A6BB9A3E02C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E5D702D-1421-48C5-9CF4-A6BB9A3E02C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E5D702D-1421-48C5-9CF4-A6BB9A3E02C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
